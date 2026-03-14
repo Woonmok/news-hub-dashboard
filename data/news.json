@@ -1,1 +1,545 @@
-PLACEHOLDER
+{
+  "generated_at": "2026-03-14T12:04:33+09:00",
+  "total_count": 40,
+  "briefing": {
+    "highlights": [
+      "[선거/캠페인] '사시 부활 논쟁'에 법조인 양성제도 문제 다시 점화···“로스쿨 제도 보완”엔 한목소리 - 경향신문",
+      "[경제/산업] 국립민속국악원, K-국악스테이지 공연 '봄, 향기'",
+      "[기술/과학] 새만금 RE100 산업단지·현대차 9조 투자 군산의 미래와 연계하라",
+      "[사회/문화] 전북소방, 소화전 주변 불법 주·정차 합동단속"
+    ],
+    "campaign_advice": "오늘 이슈(외교·정책·치안 등)를 지역 생활문제(안전·일자리·교육)로 연결해 1~2개 메시지 프레임을 고정하고, 팩트체크/설명자료를 카드뉴스 형태로 빠르게 배포할 수 있게 준비하세요.",
+    "farm_advice": "에너지(RE100)·투자·정책 변화는 시설 운영비와 판로에 직결되므로, 이번 주 안에 전력비/원자재/물류비 변동 시나리오를 업데이트하고 스마트팜 센서/자동화 PoC(에너지 최적화·환경제어)를 우선순위로 잡으세요."
+  },
+  "categories": {
+    "선거/캠페인": [
+      {
+        "title": "'사시 부활 논쟁'에 법조인 양성제도 문제 다시 점화···“로스쿨 제도 보완”엔 한목소리 - 경향신문",
+        "source": "구글뉴스 - 한국 주요",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91Tmd5SDhMWU82VmpMWEdzMW5felA4NXpmbHpBemFLYjNIU0RBandWbHFBZHVrYUZ2cjhEaFMydGdUMG9LYjZobVVtQzhEZm5rTFFGcXN3blRtUdIBX0FVX3lxTE9HdjlqM2xuQ1J0WmhTYmYteElhRlNBWmwyd3dwcWdSdjhXTGJfSDA0eGVSbzVKaENXaVJBVHNLRUxRV29OcFBjOENNaWg1RWk3a1AydHRXOWtZWFlpOWs4?oc=5",
+        "published": "2026-03-14",
+        "summary": "'사시 부활 논쟁'에 법조인 양성제도 문제 다시 점화···“로스쿨 제도 보완”엔 한목소리&nbsp;&nbsp;경향신문청와대 \"사실무근\" 입장에도 사시 부활 논쟁; 법조·학계 잇따라 성명&nbsp;&nbsp;법률신문[시선집중] “사법시험 부활, 청와대 부인하지만…대통령이 약속, 검토 중인 걸로 믿고 있다”&nbsp;&nbsp;v",
+        "keywords": [
+          "청와대",
+          "선거",
+          "정치"
+        ],
+        "ai_insight": "관련 이슈를 지역 관점(전북·진안)으로 재해석해 메시지 프레임을 만들고, 온라인 이슈 모니터링/팩트체크 대응 템플릿을 미리 준비하세요."
+      },
+      {
+        "title": "金총리 “트럼프, '김정은이 나와 대화 원하나' 물어”… 백악관서 20분 깜짝 회동 - 조선일보",
+        "source": "구글뉴스 - 한국 주요",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaG9wd2RnT2I5QV9RX195aGdQRHREb1NUeWkwRWN4ZjVLQUI2d01xNTJlTkhwenBqZ2I3clBWMDRueXRiNDZSVEhSMGtwbzNDZktLRkZYVE9jZGpLNnZSY2V3RzdGTTcxeGxCUHJXMGQyczBQSFd1bDB1T2dJVGx4Z2hlVU1nSnIwUGVrUHVPU3hUMU5CLU1xenR6LVgtd9IBsgFBVV95cUxORjlmSUlKaTRLRzJGTDl4NzNhXzFZQUF6b1VMNlNacTNRa2dGRFBVRmFzZ0EtblRpMkhqVG1LT00zbjM3Y0R6OWM0LUliU3NvUEFUZTZqczN4dHctOGRKTlZHR004VVc4NEFFbEJrdUZleEJob1ZOTDdDbmN5cWNYZ3d4alB1SHN1VWdndWNrZHg2VFptaGtjZlRFak8zLVJ3dWNPZWxsM2Q2N0ZrQUtZb25n?oc=5",
+        "published": "2026-03-14",
+        "summary": "金총리 “트럼프, '김정은이 나와 대화 원하나' 물어”… 백악관서 20분 깜짝 회동&nbsp;&nbsp;조선일보김 총리 \"트럼프, '김정은 북미대화 원하냐' 물어\"…북한 문제 20분 대화&nbsp;&nbsp;v; daum",
+        "keywords": [
+          "선거",
+          "정치",
+          "여론"
+        ],
+        "ai_insight": "관련 이슈를 지역 관점(전북·진안)으로 재해석해 메시지 프레임을 만들고, 온라인 이슈 모니터링/팩트체크 대응 템플릿을 미리 준비하세요."
+      },
+      {
+        "title": "“제보하면 150억”… 美, 이란 지도부 10명에 현상금 걸었다 - 조선일보",
+        "source": "구글뉴스 - 한국 주요",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc1RVWGNjRE9nOWRqN3hlODh5NHZBN2R5UlkzZ3Z5a2MyUDM5RWFWVjJXbjB1VTRRVS1BUFdrT05BR04zMWw4VU5uRWpGLURqV1BPTEhHRXo1YXQ4OFBKZW53T1pXU2hZMzc1X2EtaGUwYkhCbXkzNjFjV0Rod3pJWGQ5NEpjME53Y0k1Zl8tUmRWaG9zYUN6MFJqSEZWZ9IBsgFBVV95cUxPNUZJZDJiVkloS0VXSUpla2ExQjlpbjR4dWEwUExDUWNuNXlLNmNOQmZsZE1BTU5KN1dJaUxWRndLanZCRFpIa2NtV2diYktkRmVUdUIyQWpINERwcXVZTGFIZjBkOXllTW1JM1J5WVVCSUJaX1pRMDIwaVBJT2FuLXpvNGVacTZxSzY1dkFxbkZVOUhQNjF2S2syWkIzcVc2cW5HaC1NclF3SHpBY1VfS0hB?oc=5",
+        "published": "2026-03-14",
+        "summary": "“제보하면 150억”… 美, 이란 지도부 10명에 현상금 걸었다&nbsp;&nbsp;조선일보[속보]미 국방 “모즈타바, 부상으로 외모 훼손된 듯”···첫 메시지 대독으로 건강 상태 논란&nbsp;&nbsp;경향신문트럼프 “다음주 강력 타격”…미 국방 “모즈타바 외모 손상 가능성”&nbsp;&nbsp;v; daum",
+        "keywords": [
+          "국방",
+          "선거",
+          "정치"
+        ],
+        "ai_insight": "관련 이슈를 지역 관점(전북·진안)으로 재해석해 메시지 프레임을 만들고, 온라인 이슈 모니터링/팩트체크 대응 템플릿을 미리 준비하세요."
+      },
+      {
+        "title": "홍익표 “제가 '김어준 뉴스공장' 출연 취소 청와대 고위 인사…가짜뉴스 어이 없어” - 경향신문",
+        "source": "구글뉴스 - 한국 주요",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2dUVZWEg1UV92RTh6U2N3bXNna2Zid2x4bzNnNDZmTVExU19oZ09lTU5MWGpySFpUMWtKek1CaWI4MnE1cFNXZHNfNmkwVUdOSWhpaXE5QWhTQdIBX0FVX3lxTE5TSVd1QVE0bEYweWdKMmtxNWt4eGRld3B5MnhaUVg0SXF4S3lsWUJuU0VlaEJxaHJmblluNzFNbFgyM3BqV0JzZUt6WVNLSE4zYllGMnkwN25vVlJ1Skw4?oc=5",
+        "published": "2026-03-13",
+        "summary": "홍익표 “제가 '김어준 뉴스공장' 출연 취소 청와대 고위 인사…가짜뉴스 어이 없어”&nbsp;&nbsp;경향신문與, 거래설에 “인내심 한계”; 몰매 맞는 '충정로 대통령'&nbsp;&nbsp;조선일보[김순덕의 도발]'공소취소' 몰이 여당, 할 일이 그리 없나&nbsp;&nbsp;v",
+        "keywords": [
+          "청와대",
+          "선거",
+          "정치"
+        ],
+        "ai_insight": "관련 이슈를 지역 관점(전북·진안)으로 재해석해 메시지 프레임을 만들고, 온라인 이슈 모니터링/팩트체크 대응 템플릿을 미리 준비하세요."
+      },
+      {
+        "title": "두 차례나 '공천 미신청' 오세훈…조건인 '선대위' 위원장 후보군은? - 한겨레",
+        "source": "구글뉴스 - 한국 주요",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxRjFaTVY4TmFpZkRYREpRVWRjemZzaXQ4SzRsZWJvRy16SERDZFk2bmFfd2VvTTRYR2poMnhfc2dNVEdEb3RpSGh0OG5ub3RJM3VkaFA5WWZtSjRKcktSNXZCWWZ4Tk1kV0RYTVpTczgxS1Uy?oc=5",
+        "published": "2026-03-14",
+        "summary": "두 차례나 '공천 미신청' 오세훈…조건인 '선대위' 위원장 후보군은?&nbsp;&nbsp;한겨레이정현 “조용히 살겠다…내 사퇴로 갈등 바라지 않아”&nbsp;&nbsp;한겨레張-吳 갈등에 공관위원장 사퇴…당내서도 \"지선 기대 안돼\" 푸념&nbsp;&nbsp;v; daum",
+        "keywords": [
+          "선거",
+          "정치",
+          "여론"
+        ],
+        "ai_insight": "관련 이슈를 지역 관점(전북·진안)으로 재해석해 메시지 프레임을 만들고, 온라인 이슈 모니터링/팩트체크 대응 템플릿을 미리 준비하세요."
+      },
+      {
+        "title": "우범기 전주시장 '하위 20%' 부인하다 사과…시장 경선 '요동'",
+        "source": "연합뉴스 - 정치",
+        "link": "https://www.yna.co.kr/view/AKR20260314020100055",
+        "published": "2026-03-14",
+        "summary": "(전주=연합뉴스) 김동철 기자 = 오는 6월 지방선거를 앞두고 더불어민주당 전주시장 경선 판도가 우범기 현 시장의 &apos;선출직 평가 결과&apos; 번복 논",
+        "keywords": [
+          "선거",
+          "정치",
+          "여론"
+        ],
+        "ai_insight": "관련 이슈를 지역 관점(전북·진안)으로 재해석해 메시지 프레임을 만들고, 온라인 이슈 모니터링/팩트체크 대응 템플릿을 미리 준비하세요."
+      },
+      {
+        "title": "李대통령 \"근거없는 허위주장 그대로 옮기는 언론…흉기보다 무서워\"",
+        "source": "연합뉴스 - 정치",
+        "link": "https://www.yna.co.kr/view/AKR20260314016800001",
+        "published": "2026-03-14",
+        "summary": "(서울=연합뉴스) 설승은 기자 = 이재명 대통령은 14일 지난 20대 대선 당시 대선주자였던 자신에 대해 &apos;조폭 연루설&apos;을 제기한 장영하 국민의",
+        "keywords": [
+          "선거",
+          "정치",
+          "여론"
+        ],
+        "ai_insight": "관련 이슈를 지역 관점(전북·진안)으로 재해석해 메시지 프레임을 만들고, 온라인 이슈 모니터링/팩트체크 대응 템플릿을 미리 준비하세요."
+      },
+      {
+        "title": "트럼프, '예술 문외한' 케네디센터 수장 리처드 그레넬 교체",
+        "source": "연합뉴스 - 최신",
+        "link": "https://www.yna.co.kr/view/AKR20260314030100075",
+        "published": "2026-03-14",
+        "summary": "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 도널드 트럼프 미국 대통령의 측근이자 워싱턴DC 대표 문화·예술 공연장 케네디 센터를 이끌던 리처드",
+        "keywords": [
+          "선거",
+          "정치",
+          "여론"
+        ],
+        "ai_insight": "관련 이슈를 지역 관점(전북·진안)으로 재해석해 메시지 프레임을 만들고, 온라인 이슈 모니터링/팩트체크 대응 템플릿을 미리 준비하세요."
+      },
+      {
+        "title": "트럼프, 북미대화에 깊은 관심 표명…방중 계기 성사 전망은",
+        "source": "연합뉴스 - 정치",
+        "link": "https://www.yna.co.kr/view/AKR20260314026200071",
+        "published": "2026-03-14",
+        "summary": "(워싱턴=연합뉴스) 박성민 홍정규 특파원 = 도널드 트럼프 미국 대통령이 13일(현지시간) 북미 대화에 대해 다시 한번 깊은 관심을 표명하면서",
+        "keywords": [
+          "선거",
+          "정치",
+          "여론"
+        ],
+        "ai_insight": "관련 이슈를 지역 관점(전북·진안)으로 재해석해 메시지 프레임을 만들고, 온라인 이슈 모니터링/팩트체크 대응 템플릿을 미리 준비하세요."
+      }
+    ],
+    "경제/산업": [
+      {
+        "title": "국립민속국악원, K-국악스테이지 공연 '봄, 향기'",
+        "source": "전북도민일보 - 전체",
+        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1548469",
+        "published": "2026-03-14",
+        "summary": "국립민속국악원(원장 김중현)은 K-국악스테이지 공연 '봄, 향기'를 오는 21일 오후 3시 예원당에서 선보인다; 이번 공연은 국립민속국악원 국악연주단이 봄의 생동감과 따스한 정서를 우리 음악과 춤으로 풀어내는 무대로, 봄 내음 물씬 풍기는 다양한 작품으로 관객들에게 계절의 정취와 국악의 멋을 전할 예정이다",
+        "keywords": [
+          "물가",
+          "투자",
+          "수출"
+        ],
+        "ai_insight": "지역 산업·투자 뉴스는 일자리/상권 파급을 근거로 지역 공약(기업유치·인프라·교육) 메시지에 반영하고, 농업 쪽은 비용(에너지·원자재) 변동을 생산계획에 반영하세요."
+      },
+      {
+        "title": "제18회 전주프로젝트 '전주랩' 가동",
+        "source": "전북도민일보 - 전체",
+        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1548492",
+        "published": "2026-03-14",
+        "summary": "전주국제영화제의 산업 프로그램인 전주프로젝트가 한국영화 기획개발 멘토링 프로그램 '전주랩' 오리엔테이션을 열고 본격적인 프로젝트 육성에 들어갔다; 전주국제영화제(공동집행위원장 민성욱·정준호)는 최근 서울 마포구 영화진흥위원회 영화교육지원센터에서 제18회 전주프로젝트 전주랩 오리엔테이션을 개최했다고 13일 밝혔다",
+        "keywords": [
+          "산업",
+          "투자",
+          "수출"
+        ],
+        "ai_insight": "지역 산업·투자 뉴스는 일자리/상권 파급을 근거로 지역 공약(기업유치·인프라·교육) 메시지에 반영하고, 농업 쪽은 비용(에너지·원자재) 변동을 생산계획에 반영하세요."
+      },
+      {
+        "title": "트럼프 '이란 석유 수출 터미널 있는 하르그섬 파괴' - 한겨레",
+        "source": "구글뉴스 - 한국 주요",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS2xJWVkxU0FfYjZEVURUN3lzaTdWMGNoZVpjZGN4Z0E1dzJ5bkVqQW5TZGhDUUlzWlJEOGRUbEtJLXhMYk9BQWpqRm1MYWtKYTR0N2Z0MjkydUtta0hSUDNZUjFEaDNoakhRUjZVd1FJazVMWERRWHFzaVhrNGhGTUJn?oc=5",
+        "published": "2026-03-14",
+        "summary": "트럼프 '이란 석유 수출 터미널 있는 하르그섬 파괴'&nbsp;&nbsp;한겨레미군, 이란 하르그 섬 공격했다… 트럼프 “석유 인프라 제거 안 해”&nbsp;&nbsp;조선일보美, '이란 석유수출 거점' 하르그섬 폭격…중동에 2천500명 증파(종합2보)&nbsp;&nbsp;연합뉴스트럼프 “내 지시로 이란 하르그섬 군사목표물 완전파괴…석유인프라 제외”&nbsp;&nbsp;경향신문이란, “우리 에너지 시설 건드리면 역내 석유시설 ",
+        "keywords": [
+          "수출",
+          "석유",
+          "투자"
+        ],
+        "ai_insight": "지역 산업·투자 뉴스는 일자리/상권 파급을 근거로 지역 공약(기업유치·인프라·교육) 메시지에 반영하고, 농업 쪽은 비용(에너지·원자재) 변동을 생산계획에 반영하세요."
+      },
+      {
+        "title": "이란, '철통 봉쇄' 호르무즈 해협서 印 LPG운반선은 통항 허용",
+        "source": "연합뉴스 - 최신",
+        "link": "https://www.yna.co.kr/view/AKR20260314031200104",
+        "published": "2026-03-14",
+        "summary": "(자카르타=연합뉴스) 손현규 특파원 = 이란이 미국과 이스라엘의 공습을 받은 뒤 사실상 봉쇄한 호르무즈 해협에서 인도 액화석유가스(LPG) 운반",
+        "keywords": [
+          "석유",
+          "가스",
+          "투자"
+        ],
+        "ai_insight": "지역 산업·투자 뉴스는 일자리/상권 파급을 근거로 지역 공약(기업유치·인프라·교육) 메시지에 반영하고, 농업 쪽은 비용(에너지·원자재) 변동을 생산계획에 반영하세요."
+      },
+      {
+        "title": "美, '이란 석유수출 거점' 하르그섬 폭격…중동에 2천500명 증파(종합2보)",
+        "source": "연합뉴스 - 최신",
+        "link": "https://www.yna.co.kr/view/AKR20260314018852071",
+        "published": "2026-03-14",
+        "summary": "(워싱턴=연합뉴스) 조준형 백나리 특파원 = 미군이 대(對)이란전쟁 14일차인 13일(현지시간) 이란 석유수출의 전초기지인 하르그섬을 폭격하고,",
+        "keywords": [
+          "수출",
+          "석유",
+          "투자"
+        ],
+        "ai_insight": "지역 산업·투자 뉴스는 일자리/상권 파급을 근거로 지역 공약(기업유치·인프라·교육) 메시지에 반영하고, 농업 쪽은 비용(에너지·원자재) 변동을 생산계획에 반영하세요."
+      },
+      {
+        "title": "전남에 행안부 마을기업 16곳 지정…사업비 지원",
+        "source": "연합뉴스 - 경제",
+        "link": "https://www.yna.co.kr/view/AKR20260313148700054",
+        "published": "2026-03-14",
+        "summary": "(무안=연합뉴스) 형민우 기자 = 전남도는 행정안전부가 지정한 2026년 마을기업 131곳 가운데 16곳이 포함돼 전국 최다를 기록했다고 14일",
+        "keywords": [
+          "기업",
+          "투자",
+          "수출"
+        ],
+        "ai_insight": "지역 산업·투자 뉴스는 일자리/상권 파급을 근거로 지역 공약(기업유치·인프라·교육) 메시지에 반영하고, 농업 쪽은 비용(에너지·원자재) 변동을 생산계획에 반영하세요."
+      },
+      {
+        "title": "[부고] 김경하(브이아이자산운용 상무)씨 모친상",
+        "source": "연합뉴스 - 경제",
+        "link": "https://www.yna.co.kr/view/AKR20260314027200034",
+        "published": "2026-03-14",
+        "summary": "▲정분식씨 별세; 김기호·경하(브이아이자산운용 대체투자그룹 상무)씨 모친상",
+        "keywords": [
+          "투자",
+          "수출",
+          "수입"
+        ],
+        "ai_insight": "지역 산업·투자 뉴스는 일자리/상권 파급을 근거로 지역 공약(기업유치·인프라·교육) 메시지에 반영하고, 농업 쪽은 비용(에너지·원자재) 변동을 생산계획에 반영하세요."
+      },
+      {
+        "title": "부산 아파트값도 상승세 둔화…전셋값은 강세 지속",
+        "source": "연합뉴스 - 경제",
+        "link": "https://www.yna.co.kr/view/AKR20260313122600051",
+        "published": "2026-03-14",
+        "summary": "(부산=연합뉴스) 민영규 기자 = 다주택자 양도소득세 중과 유예 종료에 이어 보유세 개편으로 주택시장 추가 규제가 예상되면서 서울에 이어 부산의",
+        "keywords": [
+          "투자",
+          "수출",
+          "수입"
+        ],
+        "ai_insight": "지역 산업·투자 뉴스는 일자리/상권 파급을 근거로 지역 공약(기업유치·인프라·교육) 메시지에 반영하고, 농업 쪽은 비용(에너지·원자재) 변동을 생산계획에 반영하세요."
+      }
+    ],
+    "기술/과학": [
+      {
+        "title": "새만금 RE100 산업단지·현대차 9조 투자 군산의 미래와 연계하라",
+        "source": "전북도민일보 - 전체",
+        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1548496",
+        "published": "2026-03-14",
+        "summary": "군산시가 새만금 RE100 산업단지 시범 산단 지정과 현대자동차그룹 9조원 투자를 지역 발전과 연계하기 위한 선제 대응에 나섰다; 특히, 이런 호재들이 군산이 새롭게 도약할 발판이 될 것이란 판단에 따라 행정력을 집중하고 있다",
+        "keywords": [
+          "RE100",
+          "AI",
+          "반도체"
+        ],
+        "ai_insight": "캠페인에서는 기술 이슈를 “생활비·안전·일자리”로 번역해 공약 소재로 활용하고, 농업 프로젝트에서는 자동화/센서/에너지 최적화 관점의 PoC 주제로 바로 전환하세요."
+      },
+      {
+        "title": "日, 과학기술 예산 두배로…\"5년간 민관 총액 1천689조원 목표\"",
+        "source": "연합뉴스 - 최신",
+        "link": "https://www.yna.co.kr/view/AKR20260314030700009",
+        "published": "2026-03-14",
+        "summary": "(서울=연합뉴스) 이도연 기자 = 일본 정부가 오는 2030년까지 5년간 과학기술 분야 투입 예산을 60조엔(약 563조원)으로 두 배 늘릴 계",
+        "keywords": [
+          "과학기술",
+          "AI",
+          "반도체"
+        ],
+        "ai_insight": "캠페인에서는 기술 이슈를 “생활비·안전·일자리”로 번역해 공약 소재로 활용하고, 농업 프로젝트에서는 자동화/센서/에너지 최적화 관점의 PoC 주제로 바로 전환하세요."
+      },
+      {
+        "title": "없어질뻔한 상엿집 지킨 목사…조원경 나라얼연구소 이사장 별세",
+        "source": "연합뉴스 - 기술/과학",
+        "link": "https://www.yna.co.kr/view/AKR20260314024800505",
+        "published": "2026-03-14",
+        "summary": "(서울=연합뉴스) 이충원 기자 = 없어질 위기에 처한 상엿집(상여를 보관하는 건물)을 사들여 국가 지정 중요 민속문화재로 만드는 등 전통 상례와",
+        "keywords": [
+          "AI",
+          "반도체",
+          "RE100"
+        ],
+        "ai_insight": "캠페인에서는 기술 이슈를 “생활비·안전·일자리”로 번역해 공약 소재로 활용하고, 농업 프로젝트에서는 자동화/센서/에너지 최적화 관점의 PoC 주제로 바로 전환하세요."
+      }
+    ],
+    "사회/문화": [
+      {
+        "title": "전북소방, 소화전 주변 불법 주·정차 합동단속",
+        "source": "전북도민일보 - 전체",
+        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1548459",
+        "published": "2026-03-14",
+        "summary": "전북특별자치도소방본부(본부장 이오숙)가 소화전 주변 장애 요인을 줄이기 위해 지자체와 합동으로 불법 주·정차 단속을 강화한다; 도내 15개 소방서는 오는 25일부터 3일간 소화전 주변 5m 이내 불법 주·정차 차량을 대상으로 일제 합동단속을 실시할 예정이다",
+        "keywords": [
+          "치안",
+          "교육",
+          "문화"
+        ],
+        "ai_insight": "사회 이슈는 민원/안전/복지 관점의 즉시 대응 메시지와 현장 방문 동선을 함께 설계해 체감도를 높이세요."
+      },
+      {
+        "title": "광화문은 벌써 '보랏빛'… 아미들, BTS 굿즈 들고 곳곳서 인증샷 - 동아일보",
+        "source": "구글뉴스 - 한국 주요",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DQTdQOG9mWUVLUWREaVV1cmNLY1dCZU5FRmtwYndXOG5DeExIZ2x1Q1luZjRtdnFETld2dzRoSUphTjR4Ym0wUWIzSVFOSWFYM1AtRTcyQTR1end5bGNueVdKSzlHVmhCRlJVUVZRY0V1U3VhcWfSAWZBVV95cUxQendieEpPb1pmMVc3UVRuSzRlQnQ1UC1nbUZkVUZKcmRWaFZwOUpPbEE2djdCM0pGRkNtZFAwWXJmZlFhRmgwcUhDUXlfVzRzLWxCRWRRSU4xY0FvU1BxN0FULXRKRWc?oc=5",
+        "published": "2026-03-14",
+        "summary": "광화문은 벌써 '보랏빛'… 아미들, BTS 굿즈 들고 곳곳서 인증샷&nbsp;&nbsp;동아일보광화문 BTS 공연 중동발 테러 가능성 대비…'아미' 지키러 경찰특공대 출동&nbsp;&nbsp;경향신문BTS 공연보러 서울 찾는 관광객 숙박피해 막는다…서울시, 점검 결과 18곳 적발&nbsp;&nbsp;분야별정보BTS공연 최대 26만 인파 관리…집회·시위 전문 '종로서' 메인존 책임&nbsp;&nbsp;뉴시스경찰 “BTS 공연 공",
+        "keywords": [
+          "공연",
+          "관광",
+          "치안"
+        ],
+        "ai_insight": "사회 이슈는 민원/안전/복지 관점의 즉시 대응 메시지와 현장 방문 동선을 함께 설계해 체감도를 높이세요."
+      },
+      {
+        "title": "전자발찌 착용 40대 체포, 남양주서 교제 여성 살해 - 조선일보",
+        "source": "구글뉴스 - 한국 주요",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNWhLaF85OFctcXZQbFgzb25CeXdxeGdnNWY1RThKUmlaRTEwZnNKbU5TQzdOT3N3dkd3bFNRdWFGLXhPVElFZkltYjhKZFZtdDk3YXI3YU5sX282SlIzSHFQaWlvY3dVN3BDNm0xV254aVQ2OXpheEQzWnVSbHNrb2pOQlZEWGNzZC1sZTZIWjPSAaQBQVVfeXFMUC1QRUdDX2pxa2xfNWNvNjh3NXVZa3NXVDVqRjFweTJtaVV4Y19CZWgxU2J2djYtVEtoakNhdnduRFYwTmxkZmxBdWx3RjR4Zk9ZdmVYRkVmSUxRUFhFZWhUSnE0VE9ZYTZpTWxveElpRnJGQmdMOTBsZWk0Nm10OU1NTTJkY2ppdzBoZ2sxT0ExOW5FYnJIbmRqSG1JckVsOXhmREM?oc=5",
+        "published": "2026-03-14",
+        "summary": "전자발찌 착용 40대 체포, 남양주서 교제 여성 살해&nbsp;&nbsp;조선일보[속보] 경기 남양주서 전자발찌 착용 남성, 30대 여성 살해 후 도주‥경찰 추적&nbsp;&nbsp;MBC 뉴스남양주서 전자발찌 착용 40대, 교제 여성 흉기 살해…경찰 추적(종합)&nbsp;&nbsp;연합뉴스전자발찌 착용 남성, 남양주 길거리서 여성 살해 후 도주&nbsp;&nbsp;KBS 뉴스[속보]남양주 길거리서 전자발찌 대상자가 여성 살해",
+        "keywords": [
+          "치안",
+          "교육",
+          "문화"
+        ],
+        "ai_insight": "사회 이슈는 민원/안전/복지 관점의 즉시 대응 메시지와 현장 방문 동선을 함께 설계해 체감도를 높이세요."
+      },
+      {
+        "title": "의대 증원, 지방국립대가 절반… 강원·충북대 39명씩 최다 - 조선일보",
+        "source": "구글뉴스 - 한국 주요",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVHYxalR4TmhYcklJQU5WamI5WkNYdXFwektUXzBWZkpZM05sMlRveVJ4RC1VUGlSQWxidkRrYnJXOE1kdER0WnpfU0lyRTZfOVQ0Tm00LXdJNWhYeXRFR0FfVWxLTE15cHBycU8xSnQwN0JZNWRUVGJscGltMXhYLUoyRXNJQlnSAZsBQVVfeXFMUHdtVjhLTVZWdEZraUFGVjFRRGFTdW9ZLS1QNGpfU1FaeWhCOTJ0UnpBSVJEUWVISmp3NURqS0lLb2xnVTFjNlRtQUJpNHBuUlV6d2hhUDlMenNvdHpfR3JtUHhJeG1uc3ZRREtBQmZPWU8xY0FlZVM0TjQ1VXhWWG5iMUlwQXpCZVBXNTdickdfa0wxdXBhX3NXZjQ?oc=5",
+        "published": "2026-03-14",
+        "summary": "의대 증원, 지방국립대가 절반… 강원·충북대 39명씩 최다&nbsp;&nbsp;조선일보내년 의대 배정정원 가장 많이 늘어난 의대는?&nbsp;&nbsp;의협신문인사하는 최교진 장관&nbsp;&nbsp;뉴시스[오늘과 내일/우경임]'의정 갈등' 흙탕물이 가라앉은 자리&nbsp;&nbsp;동아일보2027 지역의사 대학별 정원 발표; 10년 복무 미이행시 지원금 반환&nbsp;&nbsp;v",
+        "keywords": [
+          "치안",
+          "교육",
+          "문화"
+        ],
+        "ai_insight": "사회 이슈는 민원/안전/복지 관점의 즉시 대응 메시지와 현장 방문 동선을 함께 설계해 체감도를 높이세요."
+      },
+      {
+        "title": "문체부 선정 '화성 뱃놀이축제', 5월 22~25일 전곡항 등서 개최",
+        "source": "연합뉴스 - 기술/과학",
+        "link": "https://www.yna.co.kr/view/AKR20260313143100061",
+        "published": "2026-03-14",
+        "summary": "(화성=연합뉴스) 김광호 기자 = 경기 화성시는 지역 대표 축제이자 문화체육관광부의 &apos;2026~2027 문화관광축제&apos;로 선정된 제16회 &apos;화성",
+        "keywords": [
+          "문화",
+          "관광",
+          "치안"
+        ],
+        "ai_insight": "사회 이슈는 민원/안전/복지 관점의 즉시 대응 메시지와 현장 방문 동선을 함께 설계해 체감도를 높이세요."
+      },
+      {
+        "title": "[가요소식] 알파드라이브원, 일본서 첫 팬 쇼케이스",
+        "source": "연합뉴스 - 최신",
+        "link": "https://www.yna.co.kr/view/AKR20260314030200005",
+        "published": "2026-03-14",
+        "summary": "(서울=연합뉴스) 김선우 기자 = ▲ 알파드라이브원, 일본서 첫 팬 쇼케이스 = 엠넷 &apos;보이즈 2 플래닛&apos;으로 탄생한 신인 보이그룹 알파드라이브",
+        "keywords": [
+          "치안",
+          "교육",
+          "문화"
+        ],
+        "ai_insight": "사회 이슈는 민원/안전/복지 관점의 즉시 대응 메시지와 현장 방문 동선을 함께 설계해 체감도를 높이세요."
+      },
+      {
+        "title": "제1연평해전서 서해 NLL 지켜낸 참수리 325호 고철로 폐기",
+        "source": "연합뉴스 - 정치",
+        "link": "https://www.yna.co.kr/view/AKR20260314021100504",
+        "published": "2026-03-14",
+        "summary": "(서울=연합뉴스) 이정현 기자 = 제1연평해전에 참전해 서해 북방한계선(NLL)을 지켜냈던 해군 고속정 &apos;참수리 325호&apos;가 고철로 폐기됐다고",
+        "keywords": [
+          "치안",
+          "교육",
+          "문화"
+        ],
+        "ai_insight": "사회 이슈는 민원/안전/복지 관점의 즉시 대응 메시지와 현장 방문 동선을 함께 설계해 체감도를 높이세요."
+      },
+      {
+        "title": "동래야류 맥 잇는 꿈나무…문장원기념사업회, 장학금 전달",
+        "source": "연합뉴스 - 사회",
+        "link": "https://www.yna.co.kr/view/AKR20260313144100051",
+        "published": "2026-03-14",
+        "summary": "(부산=연합뉴스) 조정호 기자 = &quot;앞으로도 동래야류에 더 관심을 가지고 열심히 배우겠습니다; 뜻깊은 장학금을 주셔서 정말 기쁘고 감사합니다",
+        "keywords": [
+          "치안",
+          "교육",
+          "문화"
+        ],
+        "ai_insight": "사회 이슈는 민원/안전/복지 관점의 즉시 대응 메시지와 현장 방문 동선을 함께 설계해 체감도를 높이세요."
+      },
+      {
+        "title": "\"단종 다시 보자\"…'왕사남' 흥행에 '관상'·'약한영웅'도 인기",
+        "source": "연합뉴스 - 기술/과학",
+        "link": "https://www.yna.co.kr/view/AKR20260314024500005",
+        "published": "2026-03-14",
+        "summary": "(서울=연합뉴스) 박원희 기자 = 조선 단종의 유배 이야기를 다룬 영화 &apos;왕과 사는 남자&apos;가 흥행하면서 관련 영화와 드라마도 인기를 끌고 있다",
+        "keywords": [
+          "치안",
+          "교육",
+          "문화"
+        ],
+        "ai_insight": "사회 이슈는 민원/안전/복지 관점의 즉시 대응 메시지와 현장 방문 동선을 함께 설계해 체감도를 높이세요."
+      },
+      {
+        "title": "경남교육청, 제66주년 3·15의거 기념·장학금 수여",
+        "source": "연합뉴스 - 정치",
+        "link": "https://www.yna.co.kr/view/AKR20260313115700052",
+        "published": "2026-03-14",
+        "summary": "(창원=연합뉴스) 김동민 기자 = 경남도교육청은 3·15의거 기념일을 하루 앞둔 14일 국립3·15민주묘지와 마산 지역 의거 유적지 일원에서 &apos;",
+        "keywords": [
+          "교육",
+          "치안",
+          "문화"
+        ],
+        "ai_insight": "사회 이슈는 민원/안전/복지 관점의 즉시 대응 메시지와 현장 방문 동선을 함께 설계해 체감도를 높이세요."
+      },
+      {
+        "title": "울주군보건소·카카오헬스케어, 24시간 혈당주치의 업무협약",
+        "source": "연합뉴스 - 경제",
+        "link": "https://www.yna.co.kr/view/AKR20260313093300057",
+        "published": "2026-03-14",
+        "summary": "(울산=연합뉴스) 장영은 기자 = 울산 울주군보건소는 카카오헬스케어와 당뇨 전단계 및 당뇨병 대상자의 혈당 관리 강화를 위한 &apos;건강케어 24시간",
+        "keywords": [
+          "보건",
+          "치안",
+          "교육"
+        ],
+        "ai_insight": "사회 이슈는 민원/안전/복지 관점의 즉시 대응 메시지와 현장 방문 동선을 함께 설계해 체감도를 높이세요."
+      },
+      {
+        "title": "울주 온양문화복지센터서 신춘음악회 '봄바람 밴드 라이브' 공연",
+        "source": "연합뉴스 - 전국",
+        "link": "https://www.yna.co.kr/view/AKR20260313093500057",
+        "published": "2026-03-14",
+        "summary": "(울산=연합뉴스) 장영은 기자 = 울산 울주문화재단은 온양문화복지센터에서 14일 오후 7시 신춘음악회 &apos;봄바람 밴드 라이브&apos;를 연다",
+        "keywords": [
+          "문화",
+          "공연",
+          "복지"
+        ],
+        "ai_insight": "사회 이슈는 민원/안전/복지 관점의 즉시 대응 메시지와 현장 방문 동선을 함께 설계해 체감도를 높이세요."
+      },
+      {
+        "title": "[WBC] 론디포파크 마운드 선 고우석 \"멀게만 느낀 곳…동료들 고마워\"",
+        "source": "연합뉴스 - 최신",
+        "link": "https://www.yna.co.kr/view/AKR20260314030400007",
+        "published": "2026-03-14",
+        "summary": "(마이애미=연합뉴스) 김경윤 기자 = 고우석(디트로이트 타이거스 마이너리그)은 꿈에 그리던 미국프로야구 메이저리그(MLB) 마이애미 말린스의 홈",
+        "keywords": [
+          "치안",
+          "교육",
+          "문화"
+        ],
+        "ai_insight": "사회 이슈는 민원/안전/복지 관점의 즉시 대응 메시지와 현장 방문 동선을 함께 설계해 체감도를 높이세요."
+      },
+      {
+        "title": "남양주서 전자발찌 착용 40대, 교제여성 살해…양평서 검거(종합2보)",
+        "source": "연합뉴스 - 최신",
+        "link": "https://www.yna.co.kr/view/AKR20260314026553060",
+        "published": "2026-03-14",
+        "summary": "(남양주=연합뉴스) 심민규 기자 = 위치추적 전자장치(전자발찌)를 착용한 40대 남성이 경기 남양주시에서 교제하던 여성을 흉기로 살해하고 도망쳤",
+        "keywords": [
+          "치안",
+          "교육",
+          "문화"
+        ],
+        "ai_insight": "사회 이슈는 민원/안전/복지 관점의 즉시 대응 메시지와 현장 방문 동선을 함께 설계해 체감도를 높이세요."
+      },
+      {
+        "title": "NYT \"미국, 이란전쟁 탓 인도태평양 영향력 약해진다\"",
+        "source": "연합뉴스 - 경제",
+        "link": "https://www.yna.co.kr/view/AKR20260314028900009",
+        "published": "2026-03-14",
+        "summary": "(서울=연합뉴스) 임화섭 기자 = 지난달 28일 이스라엘과 미국의 이란 공습으로 시작된 중동 전쟁을 계기로 인도태평양 지역에 대한 미국의 영향력",
+        "keywords": [
+          "치안",
+          "교육",
+          "문화"
+        ],
+        "ai_insight": "사회 이슈는 민원/안전/복지 관점의 즉시 대응 메시지와 현장 방문 동선을 함께 설계해 체감도를 높이세요."
+      },
+      {
+        "title": "경남소방본부, 방화복 세척 지역자활센터에 위탁",
+        "source": "연합뉴스 - 경제",
+        "link": "https://www.yna.co.kr/view/AKR20260313067100052",
+        "published": "2026-03-14",
+        "summary": "(창원=연합뉴스) 이정훈 기자 = 경남소방본부는 올해 특수방화복 전문 세척을 지역자활센터에 맡기는 방법으로 대원들 장비 관리 부담을 줄여주고,",
+        "keywords": [
+          "치안",
+          "교육",
+          "문화"
+        ],
+        "ai_insight": "사회 이슈는 민원/안전/복지 관점의 즉시 대응 메시지와 현장 방문 동선을 함께 설계해 체감도를 높이세요."
+      },
+      {
+        "title": "경찰, 3·15 의거 추모제서 첫 공식 사과…\"역사적 민주화 운동\"",
+        "source": "연합뉴스 - 사회",
+        "link": "https://www.yna.co.kr/view/AKR20260313117100052",
+        "published": "2026-03-14",
+        "summary": "(창원=연합뉴스) 정종호 기자 = 제66주년 3·15의거 기념일을 하루 앞둔 14일 경찰이 66년 만에 처음으로 3·15의거 희생자·유족에 공식",
+        "keywords": [
+          "치안",
+          "교육",
+          "문화"
+        ],
+        "ai_insight": "사회 이슈는 민원/안전/복지 관점의 즉시 대응 메시지와 현장 방문 동선을 함께 설계해 체감도를 높이세요."
+      },
+      {
+        "title": "[부고] 김진호(폴리뉴스 부사장)씨 부친상",
+        "source": "연합뉴스 - 기술/과학",
+        "link": "https://www.yna.co.kr/view/AKR20260314029600034",
+        "published": "2026-03-14",
+        "summary": "▲ 김원도씨 별세; 진호(폴리뉴스 부사장·전 경북매일 서울본부장)씨 부친상, 조기석(전 민주당 대구시당위원장)씨 장인상, 봄소리(바이올리니스트)",
+        "keywords": [
+          "치안",
+          "교육",
+          "문화"
+        ],
+        "ai_insight": "사회 이슈는 민원/안전/복지 관점의 즉시 대응 메시지와 현장 방문 동선을 함께 설계해 체감도를 높이세요."
+      },
+      {
+        "title": "재판소원제·법왜곡죄에 국힘 \"곳곳서 부작용\"…與 \"사실 왜곡\"",
+        "source": "연합뉴스 - 정치",
+        "link": "https://www.yna.co.kr/view/AKR20260314027700001",
+        "published": "2026-03-14",
+        "summary": "(서울=연합뉴스) 박수윤 김정진 기자 = 여야는 14일 더불어민주당 주도로 입법돼 시행에 들어간 재판소원제 및 법 왜곡죄를 두고 공방을 벌였다",
+        "keywords": [
+          "치안",
+          "교육",
+          "문화"
+        ],
+        "ai_insight": "사회 이슈는 민원/안전/복지 관점의 즉시 대응 메시지와 현장 방문 동선을 함께 설계해 체감도를 높이세요."
+      },
+      {
+        "title": "\"국정원이 불법사찰\" 촛불행동·대진연 손해배상 소송 패소",
+        "source": "연합뉴스 - 정치",
+        "link": "https://www.yna.co.kr/view/AKR20260313163800004",
+        "published": "2026-03-14",
+        "summary": "(서울=연합뉴스) 이승연 기자 = 시민단체 촛불행동 등이 국가정보원으로부터 불법사찰을 당했다며 손해배상 청구 소송을 냈으나 법원에서 기각됐다",
+        "keywords": [
+          "치안",
+          "교육",
+          "문화"
+        ],
+        "ai_insight": "사회 이슈는 민원/안전/복지 관점의 즉시 대응 메시지와 현장 방문 동선을 함께 설계해 체감도를 높이세요."
+      }
+    ],
+    "농업/스마트팜": []
+  }
+}
