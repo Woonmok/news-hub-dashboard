@@ -4,6 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig(({ command }) => ({
   plugins: [react()],
-  // Use relative asset paths for GitHub Pages project-site deployments.
-  base: command === 'build' ? './' : '/',
+  base: command === 'build' ? '/news-hub-dashboard/' : '/',
 }))
