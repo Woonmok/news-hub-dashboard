@@ -1,0 +1,82 @@
+:root {
+  --bg: #efe6d6;
+  --bg-deep: #d7c7ac;
+  --panel-bg: rgba(255, 252, 247, 0.78);
+  --panel-border: rgba(44, 67, 60, 0.12);
+  --panel-shadow: 0 24px 50px rgba(56, 38, 13, 0.12);
+  --text: #4f5145;
+  --text-strong: #17352d;
+  --muted: #6c7163;
+  --accent-strong: #1f5a48;
+  --signal: #cd4f20;
+  --sans: 'Avenir Next', 'Segoe UI', sans-serif;
+  --heading: 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', serif;
+
+  font-family: var(--sans);
+  line-height: 1.5;
+  font-weight: 400;
+  color: var(--text);
+  background:
+    radial-gradient(circle at top left, rgba(255, 245, 214, 0.9), transparent 35%),
+    radial-gradient(circle at 85% 10%, rgba(190, 220, 198, 0.65), transparent 22%),
+    linear-gradient(180deg, var(--bg), #f7f2ea 45%, #f3ece0 100%);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(rgba(23, 53, 45, 0.035) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(23, 53, 45, 0.035) 1px, transparent 1px);
+  background-size: 36px 36px;
+  mask-image: radial-gradient(circle at center, black 35%, transparent 85%);
+  pointer-events: none;
+}
+
+#root {
+  width: min(1280px, 100%);
+  margin: 0 auto;
+  min-height: 100vh;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--heading);
+  color: var(--text-strong);
+  letter-spacing: -0.03em;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+}
+
+@media (max-width: 640px) {
+  :root {
+    font-size: 15px;
+  }
+}
