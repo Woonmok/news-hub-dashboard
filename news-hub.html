@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <title>뉴스 허브 템플릿</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <style>
+    /* ===== 디자인 토큰(간단 버전) ===== */
+    :root {
+      --bg: #f7f6f2;
+      --surface: #ffffff;
+      --border: #ddd7cc;
+      --text: #222018;
+      --text-muted: #7a7465;
+      --primary: #01696f;
+      --primary-soft: #e0eeef;
+      --radius: 10px;
+      --space-1: 0.25rem;
+      --space-2: 0.5rem;
+      --space-3: 0.75rem;
+      --space-4: 1rem;
+      --space-6: 1.5rem;
+      --space-8: 2rem;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+      min-height: 100vh;
+      padding: var(--space-4);
+    }
+
+    .layout {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: grid;
+      gap: var(--space-4);
+    }
+
+    header {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: var(--space-2);
+    }
+
+    .logo {
+      font-weight: 700;
+      font-size: 1.3rem;
+      letter-spacing: 0.03em;
+    }
+
+    .tagline {
+      font-size: 0.9rem;
+      color: var(--text-muted);
+    }
+
+    .tabs {
+      display: flex;
+      gap: var(--space-2);
+      flex-wrap: wrap;
+      margin-top: var(--space-3);
+    }
+
+    .tab {
+      padding: 0.4rem 0.8rem;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      font-size: 0.9rem;
+      cursor: pointer;
+      color: var(--text-muted);
+    }
+
+    .tab.active {
+      border-color: var(--primary);
+      background: var(--primary-soft);
+      color: var(--primary);
+      font-weight: 600;
+    }
+
+    .main {
+      display: grid;
+      grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr);
+      gap: var(--space-4);
+    }
+
+    @media (max-width: 768px) {
+      .main {
+        grid-template-columns: minmax(0, 1fr);
+      }
+    }
+
+    .panel {
+      background: var(--surface);
+      border-radius: var(--radius);
+      border: 1px solid var(--border);
+      padding: var(--space-4);
+    }
+
+    .panel h2 {
+      font-size: 1rem;
+      margin-bottom: var(--space-2);
+    }
+
+    .article-list {
+      display: flex;
+      flex-direction: column;
+      gap: var(--space-2);
+      margin-top: var(--space-2);
+    }
+
+    .article-item {
+      padding: var(--space-2);
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background 0.15s ease;
+    }
+    .article-item:hover {
+      background: #f2efe7;
+    }
+    .article-item.active {
+      background: var(--primary-soft);
+      border-left: 3px solid var(--primary);
+    }
+    .article-title {
+      font-size: 0.95rem;
+      font-weight: 600;
+      margin-bottom: 0.25rem;
+    }
+    .article-meta {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }
+
+    .summary-title {
+      font-size: 1rem;
+      font-weight: 600;
+      margin-bottom: var(--space-2);
+    }
+    .summary-body {
+      font-size: 0.9rem;
+      color: var(--text-muted);
+      white-space: pre-line;
+    }
+    .summary-empty {
+      font-size: 0.9rem;
+      color: var(--text-muted);
+    }
+
+    .toolbar {
+      display: flex;
+      gap: var(--space-2);
+      margin-top: var(--space-3);
+      flex-wrap: wrap;
+    }
+    .btn {
+      font-size: 0.85rem;
+      padding: 0.4rem 0.8rem;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: #faf8f3;
+      cursor: pointer;
+      color: var(--text-muted);
+    }
+    .btn-primary {
+      border-color: var(--primary);
+      background: var(--primary);
+      color: white;
+    }
+
+  </style>
+</head>
+<body>
+  <div class="layout">
+    <header>
+      <div>
+        <div class="logo">뉴스 허브 템플릿</div>
+        <div class="tagline">관심 분야별로 기사 모으고, 오른쪽에 요약/메모</div>
+      </div>
+    </header>
+
+    <section>
+      <div class="tabs" id="topicTabs">
+        <!-- 탭은 JS에서 생성 -->
+      </div>
+    </section>
+
+    <section class="main">
+      <!-- 좌측: 기사 리스트 -->
+      <section class="panel">
+        <h2 id="listTitle">정치 / 메인 피드</h2>
+        <div class="article-list" id="articleList"></div>
+      </section>
+
+      <!-- 우측: 요약/메모 -->
+      <section class="panel">
+        <h2>요약 & 메모</h2>
+        <div id="summaryArea">
+          <p class="summary-empty">
+            왼쪽에서 기사를 선택하면 여기 요약/메모를 적는 자리로 쓰면 됩니다.
+          </p>
+        </div>
+        <div class="toolbar">
+          <button class="btn-primary btn" id="btnMockSummary">
+            샘플 요약 불러오기
+          </button>
+          <button class="btn" id="btnClearSummary">
+            지우기
+          </button>
+        </div>
+      </section>
+    </section>
+  </div>
+
+  <script>
+    // ===== 샘플 데이터 (나중에 실제 크롤/수집으로 대체) =====
+    const topics = [
+      { id: "politics", label: "정치" },
+      { id: "local", label: "지역 · 진안/전북" },
+      { id: "agri", label: "농업 · 버섯 · 스마트팜" },
+      { id: "ai", label: "AI · 테크" },
+      { id: "audio", label: "오디오 · 음악" }
+    ];
+
+    const articlesByTopic = {
+      politics: [
+        {
+          id: "p1",
+          title: "총선 이후 지방 정치 지형 변화 분석",
+          source: "가상뉴스",
+          time: "3시간 전"
+        },
+        {
+          id: "p2",
+          title: "복지·의료 공약 실행 로드맵",
+          source: "정책리포트",
+          time: "어제"
+        }
+      ],
+      local: [
+        {
+          id: "l1",
+          title: "진안군 문화관광 허브 조성 계획",
+          source: "전북일보",
+          time: "오늘"
+        },
+        {
+          id: "l2",
+          title: "세포배양 팽이버섯 수출 클러스터 추진 현황",
+          source: "지역경제뉴스",
+          time: "2일 전"
+        }
+      ],
+      agri: [
+        {
+          id: "a1",
+          title: "스마트팜과 버섯 생육 데이터 모니터링 사례",
+          source: "AgriTech Today",
+          time: "5시간 전"
+        }
+      ],
+      ai: [
+        {
+          id: "ai1",
+          title: "AI 에이전트로 뉴스 요약 자동화하기",
+          source: "Tech Brief",
+          time: "1일 전"
+        }
+      ],
+      audio: [
+        {
+          id: "au1",
+          title: "선거 캠페인용 고음질 녹음 워크플로우",
+          source: "Audio Pro",
+          time: "3일 전"
+        }
+      ]
+    };
+
+    const state = {
+      activeTopic: "politics",
+      activeArticleId: null
+    };
+
+    const $tabs = document.getElementById("topicTabs");
+    const $articleList = document.getElementById("articleList");
+    const $listTitle = document.getElementById("listTitle");
+    const $summaryArea = document.getElementById("summaryArea");
+    const $btnMockSummary = document.getElementById("btnMockSummary");
+    const $btnClearSummary = document.getElementById("btnClearSummary");
+
+    function renderTabs() {
+      $tabs.innerHTML = "";
+      topics.forEach(topic => {
+        const btn = document.createElement("button");
+        btn.className = "tab" + (topic.id === state.activeTopic ? " active" : "");
+        btn.textContent = topic.label;
+        btn.onclick = () => {
+          state.activeTopic = topic.id;
+          state.activeArticleId = null;
+          renderTabs();
+          renderArticleList();
+          resetSummary();
+        };
+        $tabs.appendChild(btn);
+      });
+    }
+
+    function renderArticleList() {
+      const list = articlesByTopic[state.activeTopic] || [];
+      $articleList.innerHTML = "";
+
+      const topicLabel =
+        topics.find(t => t.id === state.activeTopic)?.label || "";
+      $listTitle.textContent = topicLabel + " / 메인 피드";
+
+      list.forEach(article => {
+        const item = document.createElement("div");
+        item.className =
+          "article-item" +
+          (article.id === state.activeArticleId ? " active" : "");
+        item.onclick = () => {
+          state.activeArticleId = article.id;
+          renderArticleList();
+          setSummaryForArticle(article);
+        };
+
+        const title = document.createElement("div");
+        title.className = "article-title";
+        title.textContent = article.title;
+
+        const meta = document.createElement("div");
+        meta.className = "article-meta";
+        meta.textContent = `${article.source} · ${article.time}`;
+
+        item.appendChild(title);
+        item.appendChild(meta);
+        $articleList.appendChild(item);
+      });
+
+      if (list.length === 0) {
+        const empty = document.createElement("p");
+        empty.className = "article-meta";
+        empty.textContent = "이 토픽에는 아직 샘플 기사가 없습니다.";
+        $articleList.appendChild(empty);
+      }
+    }
+
+    function setSummaryForArticle(article) {
+      $summaryArea.innerHTML = "";
+      const title = document.createElement("div");
+      title.className = "summary-title";
+      title.textContent = article.title;
+
+      const body = document.createElement("div");
+      body.className = "summary-body";
+      body.textContent =
+        "이 자리는 Perplexity / 다른 AI 모델로 생성한 요약을 붙여넣거나,\n" +
+        "본인이 핵심만 메모하는 공간으로 쓰면 됩니다.";
+
+      $summaryArea.appendChild(title);
+      $summaryArea.appendChild(body);
+    }
+
+    function resetSummary() {
+      $summaryArea.innerHTML = "";
+      const p = document.createElement("p");
+      p.className = "summary-empty";
+      p.textContent =
+        "왼쪽에서 기사를 선택하면 여기 요약/메모를 적는 자리로 쓰면 됩니다.";
+      $summaryArea.appendChild(p);
+    }
+
+    // 샘플 요약 버튼: 현재 선택 기사에 가짜 요약 텍스트 채워 넣기
+    $btnMockSummary.onclick = () => {
+      const topicArticles = articlesByTopic[state.activeTopic] || [];
+      const current =
+        topicArticles.find(a => a.id === state.activeArticleId) ||
+        topicArticles[0];
+
+      if (!current) {
+        alert("먼저 왼쪽에서 기사를 하나 선택해주세요.");
+        return;
+      }
+      state.activeArticleId = current.id;
+      renderArticleList();
+
+      $summaryArea.innerHTML = "";
+      const title = document.createElement("div");
+      title.className = "summary-title";
+      title.textContent = current.title;
+
+      const body = document.createElement("div");
+      body.className = "summary-body";
+      body.textContent =
+        "샘플 요약:\n" +
+        "- 핵심 메시지 1\n" +
+        "- 핵심 메시지 2\n" +
+        "- 진안/전북/캠페인 전략에 어떤 의미가 있는지 메모\n";
+
+      $summaryArea.appendChild(title);
+      $summaryArea.appendChild(body);
+    };
+
+    $btnClearSummary.onclick = () => {
+      resetSummary();
+    };
+
+    // 초기 렌더
+    renderTabs();
+    renderArticleList();
+    resetSummary();
+  </script>
+</body>
+</html>
